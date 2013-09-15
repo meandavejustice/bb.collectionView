@@ -1,0 +1,47 @@
+{
+  "name": "bb.collectionView",
+  "description": "A drop in collection view for backbone apps",
+  "version": "0.0.1",
+  "homepage": "https://github.com/meandavejustishh/bb.collectionView",
+  "main": "src/bb.collectionView.js",
+  "keywords": [
+    "backbone",
+    "collection",
+    "view",
+    "child",
+    "client",
+    "browser"
+  ],
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://raw.github.com/meandavejustice/bb.collectionView/master/LICENSE"
+    }
+  ],
+  "scripts": {
+    "start": "grunt server",
+    "test": "grunt test"
+  },
+  "author": {
+    "name": "Dave Justice",
+    "email": "davejustishh@gmail.com",
+    "web": "http://meandavejustice.github.io"
+  },
+  "bugs": {
+    "web": "https://github.com/meandavejustice/bb.collectionView/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/meandavejustice/bb.collectionView/.git"
+  },
+  "github": "https://github.com/meandavejustice/bb.collectionView/",
+  "dependencies": {
+    "backbone": "~1.0.0"
+  },
+  "devDependencies": {
+    "jquery": "*",
+    "grunt": "~0.4.0",
+    "mocha": "~1.13.0",
+    "underscore": "~1.5.2"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "name"        : "bb.collectionView",
+  "description" : "A drop in collection view for backbone apps",
+  "url"         : "http://meandavejustice.github.com/bb.collectionView",
+  "main"        : "./src/bb.collectionView.js",
+  "version"     : "0.0.1",
+
+  "keywords"     : [
+    "backbone",
+    "collection view",
+    "client",
+    "browser",
+    "bb",
+    "devotional",
+    "roadCrue",
+    "child views"
+  ],
+
+  "author": {
+    "name"  : "Dave Justice",
+    "email" : "davejustishh@gmail.com"
+  },
+
+  "ignore": [
+    "docs",
+    "spec",
+    ".gitignore",
+    ".travis.yml",
+    "build",
+    "build.cmd",
+    "package.json"
+  ],
+
+  "dependencies" : {
+    "backbone": "~1.0.0",
+    "underscore": "~1.5.1"
+  }
+}
